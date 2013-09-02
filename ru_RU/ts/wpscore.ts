@@ -5,7 +5,7 @@
     <name>comment</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Комментарий</translation>
     </message>
 </context>
 <context>
@@ -31,113 +31,113 @@
     <name>field</name>
     <message>
         <source>Error! Too many picture switches defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Определено слишком много переключателей изображений.</translation>
     </message>
     <message>
         <source>Error! Unknown switch parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Неизвестный параметр переключателя.</translation>
     </message>
     <message>
         <source>Error! Switch parameter not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Не определен параметр переключателя.</translation>
     </message>
     <message>
         <source>Error! Picture switch must be the first formatting switch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Переключатель изображения должен быть первым переключателем форматирования.</translation>
     </message>
     <message>
         <source>Error! Picture string contains unmatched quotation mark.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Строка изображения содержит несоответствующий знак вопроса.</translation>
     </message>
     <message>
         <source>Error! The style name is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Не определено название стиля.</translation>
     </message>
     <message>
         <source>Error! The style is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Стиль не определен.</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка!</translation>
     </message>
 </context>
 <context>
     <name>field_parser_common</name>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок</translation>
     </message>
     <message>
         <source> </source>
-        <translation type="unfinished"></translation>
+        <translation> </translation>
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Закладка не определена.</translation>
     </message>
     <message>
         <source>Normal text</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычный текст</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <source>Current date</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущая дата</translation>
     </message>
     <message>
         <source>Current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущее время</translation>
     </message>
     <message>
         <source>_Top</source>
-        <translation type="unfinished"></translation>
+        <translation>_Верх</translation>
     </message>
 </context>
 <context>
     <name>field_parser_links_and_reference</name>
     <message>
         <source>Error! Hyperlink reference is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Неверная ссылка.</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка</translation>
     </message>
     <message>
         <source>above</source>
-        <translation type="unfinished"></translation>
+        <translation>над</translation>
     </message>
     <message>
         <source>below</source>
-        <translation type="unfinished"></translation>
+        <translation>под</translation>
     </message>
     <message>
         <source>on page</source>
-        <translation type="unfinished"></translation>
+        <translation>на странице</translation>
     </message>
     <message>
         <source>Error! Reference source not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Источник ссылки не найден.</translation>
     </message>
     <message>
         <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Содержание не допускается в сносках, концевых сносках, верхних и нижних колонтитулах или текстовых полях.</translation>
     </message>
     <message>
         <source>Error! Table of contents entries not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка! Не найдены пункты содержания.</translation>
     </message>
     <message>
         <source>Error! Bookmark not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка! Закладка не определена</translation>
     </message>
     <message>
         <source>Error! The file you specified cannot be open.</source>

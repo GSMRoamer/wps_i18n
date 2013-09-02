@@ -5,121 +5,121 @@
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор ширины колонки</translation>
     </message>
 </context>
 <context>
     <name>ExitEditOpenFile</name>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы открываете новый файл, содержимое ячейки данного файла будет удалено:</translation>
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст надписи</translation>
     </message>
     <message>
         <source>Do you still want to open it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы все еще хотите открыть его?</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Открыть</translation>
     </message>
     <message>
         <source>&amp;Return</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Возврат</translation>
     </message>
 </context>
 <context>
     <name>GrpboxCondition</name>
     <message>
         <source>Grpbox Condition</source>
-        <translation type="unfinished"></translation>
+        <translation>Условие группового блока</translation>
     </message>
     <message>
         <source>Cell value is</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение ячейки - </translation>
     </message>
     <message>
         <source>Formula is</source>
-        <translation type="unfinished"></translation>
+        <translation>Формула -</translation>
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation>между</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation type="unfinished"></translation>
+        <translation>не между</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>равно</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>не равно</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>больше</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation>меньше</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>больше или равно</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>меньше или равно</translation>
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>и</translation>
     </message>
     <message>
         <source>Preview of format to use when
 condition is true: </source>
-        <translation type="unfinished"></translation>
+        <translation>предосмотр используемого формата если условие истинно:</translation>
     </message>
 </context>
 <context>
     <name>InsertFunctionLabel</name>
     <message>
         <source>I want to comment function</source>
-        <translation type="unfinished"></translation>
+        <translation>Я хочу закомментировать функцию</translation>
     </message>
 </context>
 <context>
     <name>InsertFunctionLineEdit</name>
     <message>
         <source>Enter the name or the description of the function you would like to look for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите название или описание функции, которую вы ищете.</translation>
     </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка пользовательского интерфейса Kingsoft</translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочий стол</translation>
     </message>
 </context>
 <context>
     <name>KDateEdit</name>
     <message>
         <source>%1-%2-%3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-%2-%3</translation>
     </message>
 </context>
 <context>
@@ -127,431 +127,431 @@ condition is true: </source>
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>По &amp;умолчанию для новых объектов</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Стиль:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>За&amp;черкнутый:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Начальный стиль:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Конечный стиль:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Начальный ра&amp;змер:</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Конечный раз&amp;мер:</translation>
     </message>
 </context>
 <context>
     <name>KSelectSheetDlg</name>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать</translation>
     </message>
     <message>
         <source>&amp;Activate:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Активировать:</translation>
     </message>
 </context>
 <context>
     <name>KValuesModel</name>
     <message>
         <source>Blanks</source>
-        <translation type="unfinished"></translation>
+        <translation>Пустые</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Год</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Месяц</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"></translation>
+        <translation>День</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Час</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Минута</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Секунда</translation>
     </message>
     <message>
         <source>(Select all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Выбрать все)</translation>
     </message>
     <message>
         <source>Add current selection to filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить текущее выделение к фильтру</translation>
     </message>
     <message>
         <source>(Blanks)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Пустые)</translation>
     </message>
 </context>
 <context>
     <name>KValuesWidget</name>
     <message>
         <source>Top 10...</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхние 10...</translation>
     </message>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Выше среднего</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Ниже среднего</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Сегодня</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Вчера</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Завтра</translation>
     </message>
     <message>
         <source>This Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта неделя</translation>
     </message>
     <message>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Прошлая неделя</translation>
     </message>
     <message>
         <source>Next Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующая неделя</translation>
     </message>
     <message>
         <source>This Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот месяц</translation>
     </message>
     <message>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Прошлый месяц</translation>
     </message>
     <message>
         <source>Next Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий месяц</translation>
     </message>
     <message>
         <source>This Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот квартал</translation>
     </message>
     <message>
         <source>Last Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Прошлый квартал</translation>
     </message>
     <message>
         <source>Next Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий квартал</translation>
     </message>
     <message>
         <source>This Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот год</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Прошлый год</translation>
     </message>
     <message>
         <source>Next Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий год</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Еще</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>По возрастанию</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>По убыванию</translation>
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Особый...</translation>
     </message>
     <message>
         <source>Can display up to 10000 items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Может отображать до 10000 пунктов.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>No items match your search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск не дал результатов.</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>(Showing all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Показать все)</translation>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation>И</translation>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Или</translation>
     </message>
     <message>
         <source>Top %1 Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхние %1 пункты(ов)</translation>
     </message>
     <message>
         <source>Top %1 Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхние %1 проценты(ов)</translation>
     </message>
     <message>
         <source>Bottom %1 Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Нижние %1 пункты(ов)</translation>
     </message>
     <message>
         <source>Bottom %1 Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Нижние %1 проценты(ов)</translation>
     </message>
     <message>
         <source>Equals</source>
-        <translation type="unfinished"></translation>
+        <translation>Равно</translation>
     </message>
     <message>
         <source>Equals &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Равно &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not equal &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не равно &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Is after &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Стоит после &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Greater than or equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше или равно &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Is before &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Стоит перед &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Less than or equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Меньше или равно &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Begins with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Начинается на &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not begin with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не начинается на &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Ends with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Заканчивается на &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not end with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не заканчивается на &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Contains &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Содерожит &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Does not contain &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не содержит &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Greater than &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Less than &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Меньше &quot;%1&quot;</translation>
     </message>
     <message>
         <source>(Blanks)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Пустые)</translation>
     </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
     <message>
         <source>Invalid reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверная ссылка.</translation>
     </message>
     <message>
         <source>What you entered is an invalid reference or name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы ввели неверную ссылку или название.</translation>
     </message>
     <message>
         <source>Invalid data range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный диапазон дат.</translation>
     </message>
     <message>
         <source>Invalid criteria range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный диапазон критериев.</translation>
     </message>
     <message>
         <source>Invalid extract range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверная выборка из диапазона.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эту команду нельзя использовать для защищенной ячейки.</translation>
     </message>
 </context>
 <context>
     <name>KxAfFilterThisOneLabel</name>
     <message>
         <source>Filter this item only</source>
-        <translation type="unfinished"></translation>
+        <translation>Отфильтровать только данный пункт</translation>
     </message>
     <message>
         <source>Clear filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить фильтр</translation>
     </message>
 </context>
 <context>
     <name>KxAfTreeViewHeaderWidget</name>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Несколько</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Один</translation>
     </message>
 </context>
 <context>
     <name>KxAlignWidget</name>
     <message>
         <source>Illegal integer text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверная цифра.</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение должно быть между %1 и %2.</translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как</translation>
     </message>
 </context>
 <context>
     <name>KxCalcResumer</name>
     <message>
         <source>Calculate</source>
-        <translation type="unfinished"></translation>
+        <translation>Вычислить</translation>
     </message>
 </context>
 <context>
     <name>KxChangeRangePasswordDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение пароля неверно.</translation>
     </message>
 </context>
 <context>
     <name>KxCirculareReferencesDlg</name>
     <message>
         <source>Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Книга</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Лист</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Ячейка</translation>
     </message>
 </context>
 <context>
     <name>KxConditionFormatDlg</name>
     <message>
         <source>&amp;Format...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Формат...</translation>
     </message>
     <message>
         <source>F&amp;ormat...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ф&amp;ормат...</translation>
     </message>
     <message>
         <source>Fo&amp;rmat...</source>
-        <translation type="unfinished"></translation>
+        <translation>Фо&amp;рмат...</translation>
     </message>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходимо указать критении для всех условных форматов.</translation>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Требуемое минимальное или максимальное значение отсутствует.</translation>
     </message>
 </context>
 <context>

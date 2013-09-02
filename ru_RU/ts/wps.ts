@@ -5,339 +5,339 @@
     <name>BordersAndShadingWidget</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Без заполнения</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Белый</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-5%</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-12,5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-37,5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-45%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-62,5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-87,5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый-95%</translation>
     </message>
     <message>
         <source>Black </source>
-        <translation type="unfinished"></translation>
+        <translation>Черный</translation>
     </message>
     <message>
         <source>Deep cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-голубой</translation>
     </message>
     <message>
         <source>Deep blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-синий</translation>
     </message>
     <message>
         <source>Indigo blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Сине-фиолетовый</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Синий</translation>
     </message>
     <message>
         <source>Light blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Голубой</translation>
     </message>
     <message>
         <source>Shadow blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Затененный синий</translation>
     </message>
     <message>
         <source>Lilac</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиловый</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Госубой</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Аква</translation>
     </message>
     <message>
         <source>Lazulite</source>
-        <translation type="unfinished"></translation>
+        <translation>Лазурный</translation>
     </message>
     <message>
         <source>Light turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-бирюзовый</translation>
     </message>
     <message>
         <source>Magenta</source>
-        <translation type="unfinished"></translation>
+        <translation>Пурпурный</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Розовый</translation>
     </message>
     <message>
         <source>Glauconite</source>
-        <translation type="unfinished"></translation>
+        <translation>Глауконитовый</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Бирюзовый</translation>
     </message>
     <message>
         <source>Light green</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-зеленый</translation>
     </message>
     <message>
         <source>Light yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-желтый</translation>
     </message>
     <message>
         <source>Tea brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Чайный коричневый</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиолетовый</translation>
     </message>
     <message>
         <source>Deep green</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-зеленый</translation>
     </message>
     <message>
         <source>Emerald</source>
-        <translation type="unfinished"></translation>
+        <translation>Изумрудный</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Желтый</translation>
     </message>
     <message>
         <source>Golden</source>
-        <translation type="unfinished"></translation>
+        <translation>Золотой</translation>
     </message>
     <message>
         <source>Light orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Светоло-оранжевый</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Красный</translation>
     </message>
     <message>
         <source>Plum red</source>
-        <translation type="unfinished"></translation>
+        <translation>Сливово-красный</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеленый</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Лайм</translation>
     </message>
     <message>
         <source>Deep Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-желтый</translation>
     </message>
     <message>
         <source>Olive green</source>
-        <translation type="unfinished"></translation>
+        <translation>Оливковый зеленый</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Оранжевый</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Коричневый</translation>
     </message>
     <message>
         <source>Deep red</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-красный</translation>
     </message>
 </context>
 <context>
     <name>ChangeCaseDlg</name>
     <message>
         <source>Convert Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать регистр</translation>
     </message>
     <message>
         <source>&amp;Sentence case</source>
-        <translation type="unfinished"></translation>
+        <translation>С &amp;большой буквы</translation>
     </message>
     <message>
         <source>Half-&amp;width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Половинная ширина</translation>
     </message>
     <message>
         <source>&amp;Lowercase</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Строчные</translation>
     </message>
     <message>
         <source>&amp;Full-width</source>
-        <translation type="unfinished"></translation>
+        <translation>Полная &amp;ширина</translation>
     </message>
     <message>
         <source>&amp;Uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Заглавные</translation>
     </message>
     <message>
         <source>&amp;Katakana</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Катакана</translation>
     </message>
     <message>
         <source>To&amp;ggle case</source>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;менить регистр</translation>
     </message>
     <message>
         <source>&amp;Hiragana</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Хирагана</translation>
     </message>
     <message>
         <source>&amp;Title case</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Капитализация начальных букв</translation>
     </message>
 </context>
 <context>
     <name>ColumnsManagerCtrl</name>
     <message>
         <source>%1:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:</translation>
     </message>
     <message>
         <source>pt, 2, %1,</source>
-        <translation type="unfinished"></translation>
+        <translation>pt, 2, %1,</translation>
     </message>
     <message>
         <source> %1, 1</source>
-        <translation type="unfinished"></translation>
+        <translation> %1, 1</translation>
     </message>
     <message>
         <source>ch, 2, %1,</source>
-        <translation type="unfinished"></translation>
+        <translation>ch, 2, %1,</translation>
     </message>
     <message>
         <source>pt, 2, 0, %1, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pt, 2, 0, %1, 1</translation>
     </message>
     <message>
         <source>ch, 2, 0, %1, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>ch, 2, 0, %1, 1</translation>
     </message>
 </context>
 <context>
     <name>CustomPreView</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
 </context>
 <context>
     <name>DlgColumnsManager</name>
     <message>
         <source>ColumnsManager</source>
-        <translation type="unfinished"></translation>
+        <translation>Менеджер колонок</translation>
     </message>
     <message>
         <source>Col#:</source>
-        <translation type="unfinished"></translation>
+        <translation>Кол#:</translation>
     </message>
     <message>
         <source>W&amp;idth:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ширина:</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Разрядка:</translation>
     </message>
     <message>
         <source>1:</source>
-        <translation type="unfinished"></translation>
+        <translation>1:</translation>
     </message>
 </context>
 <context>
@@ -740,8 +740,7 @@
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translatorcomment>Загрузка</translatorcomment>
-        <translation></translation>
+        <translation>Загрузка пользовательского интерфейса Kingsoft</translation>
     </message>
 </context>
 <context>
